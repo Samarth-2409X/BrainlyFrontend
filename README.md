@@ -1,1 +1,1 @@
-# This is my second brain frontend repository
+# This is frontend code of my second brain project
